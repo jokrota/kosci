@@ -1,3 +1,4 @@
+document.querySelector("h1").innerHTML = "Refresh me";
 let num1 = Math.floor(Math.random() * 6) + 1;
 var imageDiceNum1 = "dice" + num1 + ".png";
 var imageDiceSource = "images/" + imageDiceNum1;
